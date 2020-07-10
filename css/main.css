@@ -81,7 +81,7 @@ dfn {
 
 mark {
 	background-color: #ff0;
-	color: #000
+	color: #43565d
 }
 
 small {
@@ -2159,7 +2159,7 @@ img {
 }
 
 .site-nav a {
-	color: #000;
+	color: #43565d;
 	font-weight: 700
 }
 
@@ -2242,7 +2242,7 @@ img {
 }
 
 .menu-opened .btn-menu span:after {
-	background: #000;
+	background: #43565d;
 	top: 0;
 	-webkit-transform: rotate(45deg);
 	transform: rotate(45deg);
@@ -2253,7 +2253,7 @@ img {
 }
 
 .menu-opened .btn-menu span:before {
-	background: #000;
+	background: #43565d;
 	bottom: 0;
 	-webkit-transform: rotate(-45deg);
 	transform: rotate(-45deg);
@@ -2283,7 +2283,7 @@ img {
 }
 
 .site-footer {
-	background: #000;
+	background: #43565d;
 	padding: 2.5rem 0;
 	text-align: center
 }
@@ -2477,7 +2477,7 @@ img {
 }
 
 .home-sign-up {
-	background: #000;
+	background: #43565d;
 	color: #fff;
 	text-align: center;
 	padding: 5rem 0
@@ -2522,7 +2522,7 @@ img {
 .home-sign-up form button {
 	background: #fff;
 	border: 1px solid transparent;
-	color: #000;
+	color: #43565d;
 	font-weight: 700;
 	text-transform: uppercase;
 	outline: none;
@@ -2823,7 +2823,7 @@ img {
 }
 
 .board-directors {
-	background: #000;
+	background: #43565d;
 	color: #fff;
 	text-align: center
 }
@@ -2864,7 +2864,7 @@ img {
 }
 
 .board-directors .block:not(.intro) {
-	color: #000
+	color: #43565d
 }
 
 .board-directors .block:not(.intro) .title {
