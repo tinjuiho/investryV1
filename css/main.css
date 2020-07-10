@@ -2427,13 +2427,17 @@ img {
 }
 
 .home-about-block .icon-download:before {
-	background: url(../images/wr-home-block-1.png) no-repeat;
-	width: 11rem
+	background: url(../images/ho_1.jpg) no-repeat;
+    background-repeat:   no-repeat;
+    background-position: center center;              /* optional, center the image */
+	background-size: contain;
 }
 
 .home-about-block .icon-unicorn:before {
-	background: url(../images/wr-home-block-2.png) no-repeat;
-	width: 14.75rem
+	background: url(../images/ho_2.jpg) no-repeat;
+    background-repeat:   no-repeat;
+    background-position: center center;              /* optional, center the image */
+	background-size: contain;
 }
 
 .home-about-block .icon-price:before {
